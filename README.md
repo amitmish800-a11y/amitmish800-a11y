@@ -9,3 +9,13 @@
 <h3 align="center">
 Full Stack Developer | AI Enthusiast | Open Source Contributor
 </h3>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,vscode,linux,postman&perline=10" />
+</p>
+
+---
