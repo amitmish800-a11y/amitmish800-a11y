@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="Amit Mishra Banner" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Amit Mishra</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amit+Mishra;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" />
+</p>
 
-<h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">
+Full Stack Developer | AI Enthusiast | Open Source Contributor
+</h3>
